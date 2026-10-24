@@ -1,0 +1,90 @@
+{
+  "Black-Chip.png": {
+    "URL": "https://i.ibb.co/pjP5rMKT/Black-Chip.png",
+    "SHA256": "3f1a7a34da522594c66e0f9813afbbed048b79308176bc6e205ef70b6dd50a94",
+    "Width": 512,
+    "Height": 512,
+    "Path": "CasinoSystem/Images/Black-Chip.png",
+    "HostedURL": "https://raw.githubusercontent.com/Meowhuh43/PluginImages/main/CasinoSystem/Images/Black-Chip.png"
+  },
+  "CasinoBot01.png": {
+    "URL": "https://api.dicebear.com/10.x/bottts-neutral/png?seed=CasinoBot01",
+    "SHA256": "d5ef3b2abecff0ffcb723c65fa075b155ef10bf43d275011ebe1f0e8e304aa64",
+    "Width": 128,
+    "Height": 128,
+    "Path": "CasinoSystem/Images/CasinoBot01.png",
+    "HostedURL": "https://raw.githubusercontent.com/Meowhuh43/PluginImages/main/CasinoSystem/Images/CasinoBot01.png"
+  },
+  "CasinoBot02.png": {
+    "URL": "https://api.dicebear.com/10.x/bottts-neutral/png?seed=CasinoBot02",
+    "SHA256": "b85ba76d5a451c175eb8543e6381c0129bed87dcc4d12d0da6be0d42f8e9b69c",
+    "Width": 128,
+    "Height": 128,
+    "Path": "CasinoSystem/Images/CasinoBot02.png",
+    "HostedURL": "https://raw.githubusercontent.com/Meowhuh43/PluginImages/main/CasinoSystem/Images/CasinoBot02.png"
+  },
+  "CasinoBot03.png": {
+    "URL": "https://api.dicebear.com/10.x/bottts-neutral/png?seed=CasinoBot03",
+    "SHA256": "5af5d71322fbdbe930a5a0d9ddac042e425f7b82465f6992ba4f9373ab7cf79e",
+    "Width": 128,
+    "Height": 128,
+    "Path": "CasinoSystem/Images/CasinoBot03.png",
+    "HostedURL": "https://raw.githubusercontent.com/Meowhuh43/PluginImages/main/CasinoSystem/Images/CasinoBot03.png"
+  },
+  "CasinoBot04.png": {
+    "URL": "https://api.dicebear.com/10.x/bottts-neutral/png?seed=CasinoBot04",
+    "SHA256": "59cc22fe7b5a761307c9efd4870eeb6e462178df3325fa6c7f0d7393021f3165",
+    "Width": 128,
+    "Height": 128,
+    "Path": "CasinoSystem/Images/CasinoBot04.png",
+    "HostedURL": "https://raw.githubusercontent.com/Meowhuh43/PluginImages/main/CasinoSystem/Images/CasinoBot04.png"
+  },
+  "CasinoBot05.png": {
+    "URL": "https://api.dicebear.com/10.x/bottts-neutral/png?seed=CasinoBot05",
+    "SHA256": "248e722774e93f56382e85a31bb620ec58b86f38cb6277fe3c3987488862bf14",
+    "Width": 128,
+    "Height": 128,
+    "Path": "CasinoSystem/Images/CasinoBot05.png",
+    "HostedURL": "https://raw.githubusercontent.com/Meowhuh43/PluginImages/main/CasinoSystem/Images/CasinoBot05.png"
+  },
+  "CasinoBot06.png": {
+    "URL": "https://api.dicebear.com/10.x/bottts-neutral/png?seed=CasinoBot06",
+    "SHA256": "16c5f5e9ed3deeba5d3d992ce4e601656c235bd65ee40c8bac259cbd4550f87f",
+    "Width": 128,
+    "Height": 128,
+    "Path": "CasinoSystem/Images/CasinoBot06.png",
+    "HostedURL": "https://raw.githubusercontent.com/Meowhuh43/PluginImages/main/CasinoSystem/Images/CasinoBot06.png"
+  },
+  "CasinoBot07.png": {
+    "URL": "https://api.dicebear.com/10.x/bottts-neutral/png?seed=CasinoBot07",
+    "SHA256": "1b153b1e9aa1f7b959126111731bd62f65f3ec85282b8f86d9451e12e472e3e5",
+    "Width": 128,
+    "Height": 128,
+    "Path": "CasinoSystem/Images/CasinoBot07.png",
+    "HostedURL": "https://raw.githubusercontent.com/Meowhuh43/PluginImages/main/CasinoSystem/Images/CasinoBot07.png"
+  },
+  "CasinoBot08.png": {
+    "URL": "https://api.dicebear.com/10.x/bottts-neutral/png?seed=CasinoBot08",
+    "SHA256": "acfef4294b5b1a452213c6e17b9e45125aa51a69331be1fbc58486594e0827e9",
+    "Width": 128,
+    "Height": 128,
+    "Path": "CasinoSystem/Images/CasinoBot08.png",
+    "HostedURL": "https://raw.githubusercontent.com/Meowhuh43/PluginImages/main/CasinoSystem/Images/CasinoBot08.png"
+  },
+  "Exchange-Icon.png": {
+    "URL": "https://i.ibb.co/jszycbD/Exchange-Icon.png",
+    "SHA256": "735115805bbec15e2bc0b4c23033b8de3dde12fdb9474de6a5531f6b559017a6",
+    "Width": 512,
+    "Height": 512,
+    "Path": "CasinoSystem/Images/Exchange-Icon.png",
+    "HostedURL": "https://raw.githubusercontent.com/Meowhuh43/PluginImages/main/CasinoSystem/Images/Exchange-Icon.png"
+  },
+  "Red-Chip.png": {
+    "URL": "https://i.ibb.co/84fjDBfd/Red-Chip.png",
+    "SHA256": "0f25dccdde1b0c0d51604d426945dff25353d364dc7ba0940562e71fa3500584",
+    "Width": 512,
+    "Height": 512,
+    "Path": "CasinoSystem/Images/Red-Chip.png",
+    "HostedURL": "https://raw.githubusercontent.com/Meowhuh43/PluginImages/main/CasinoSystem/Images/Red-Chip.png"
+  }
+}
